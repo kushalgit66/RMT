@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/RMT.html"
+  status = 200
